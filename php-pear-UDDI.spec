@@ -7,7 +7,7 @@ Summary:	%{_pearname} - API for PHP
 Summary(pl):	%{_pearname} - API dla PHP
 Name:		php-pear-%{_pearname}
 Version:	0.1.3
-Release:	1
+Release:	2
 License:	GPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
