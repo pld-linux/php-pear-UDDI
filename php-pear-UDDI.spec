@@ -1,5 +1,5 @@
 %include	/usr/lib/rpm/macros.php
-%define         _class          UDDI
+%define		_class		UDDI
 %define		_status		alpha
 %define		_pearname	%{_class}
 
