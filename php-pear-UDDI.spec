@@ -23,7 +23,7 @@ Implementation of Universal Description, Discovery and Integration API
 for locating and publishing Web Services in a UBR (UDDI Business
 Registry).
 
-This class has in PEAR status: %{_status}.
+In PEAR status of this package is: %{_status}.
 
 %description -l pl
 Implementacja Universal Description, Discovery and Integration API
