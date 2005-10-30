@@ -8,7 +8,7 @@ Summary(pl):	%{_pearname} - API dla PHP
 Name:		php-pear-%{_pearname}
 Version:	0.2.0
 %define	_rc	alpha4
-%define	_rel 1
+%define	_rel 2
 Release:	1.%{_rc}.%{_rel}
 License:	GPL
 Group:		Development/Languages/PHP
@@ -50,5 +50,6 @@ rm -rf $RPM_BUILD_ROOT
 %defattr(644,root,root,755)
 %doc install.log
 %doc docs/%{_pearname}/*
+%dir %{php_pear_dir}/%{_class}
 %{php_pear_dir}/.registry/*.reg
 %{php_pear_dir}/%{_class}/*.php
