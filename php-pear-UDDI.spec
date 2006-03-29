@@ -8,7 +8,7 @@ Summary(pl):	%{_pearname} - API dla PHP
 Name:		php-pear-%{_pearname}
 Version:	0.2.0
 %define	_rc	alpha4
-%define	_rel 2
+%define	_rel 3
 Release:	1.%{_rc}.%{_rel}
 License:	GPL
 Group:		Development/Languages/PHP
