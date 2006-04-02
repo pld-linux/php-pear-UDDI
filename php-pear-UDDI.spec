@@ -6,14 +6,12 @@
 Summary:	%{_pearname} - API for PHP
 Summary(pl):	%{_pearname} - API dla PHP
 Name:		php-pear-%{_pearname}
-Version:	0.2.0
-%define	_rc	alpha4
-%define	_rel 3
-Release:	1.%{_rc}.%{_rel}
+Version:	0.2.2
+Release:	1
 License:	GPL
 Group:		Development/Languages/PHP
-Source0:	http://pear.php.net/get/%{_pearname}-%{version}%{_rc}.tgz
-# Source0-md5:	a637ca53ff82e4335ed234a017f098eb
+Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
+# Source0-md5:	f7dd68df11c4cc68c97f96237e8b2974
 URL:		http://pear.php.net/package/UDDI/
 BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
