@@ -4,7 +4,7 @@
 %define		_pearname	%{_class}
 
 Summary:	%{_pearname} - API for PHP
-Summary(pl.UTF-8):   %{_pearname} - API dla PHP
+Summary(pl.UTF-8):	%{_pearname} - API dla PHP
 Name:		php-pear-%{_pearname}
 Version:	0.2.3
 Release:	1
