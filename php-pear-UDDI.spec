@@ -4,7 +4,7 @@
 %define		_pearname	%{_class}
 
 Summary:	%{_pearname} - API for PHP
-Summary(pl):	%{_pearname} - API dla PHP
+Summary(pl.UTF-8):   %{_pearname} - API dla PHP
 Name:		php-pear-%{_pearname}
 Version:	0.2.3
 Release:	1
@@ -28,9 +28,9 @@ Registry).
 
 In PEAR status of this package is: %{_status}.
 
-%description -l pl
+%description -l pl.UTF-8
 Implementacja Universal Description, Discovery and Integration API
-s≥uø±cego wyszukiwaniu i umieszczaniu us≥ug sieciowych w rejestrze UBR
+s≈Çu≈ºƒÖcego wyszukiwaniu i umieszczaniu us≈Çug sieciowych w rejestrze UBR
 (UDDI Business Registry).
 
 Ta klasa ma w PEAR status: %{_status}.
