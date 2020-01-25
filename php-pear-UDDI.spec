@@ -1,6 +1,5 @@
 %define		_status		alpha
 %define		_pearname	UDDI
-%include	/usr/lib/rpm/macros.php
 Summary:	%{_pearname} - API for PHP
 Summary(pl.UTF-8):	%{_pearname} - API dla PHP
 Name:		php-pear-%{_pearname}
